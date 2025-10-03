@@ -10,7 +10,73 @@ This project demonstrates the fundamentals and advanced techniques of working wi
 - CRUD operations
 - Advanced queries (filtering, projection, sorting, pagination)
 - Aggregation pipelines
-- Indexing for performance
+- Indexing for performce
+
+
+
+
+
+## 📸 Screenshots
+
+### Books inserted into `plp_bookstore.books`
+<img src="./images/books.png" alt="Books Screenshot" width="600"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Aggregation Pipeline Results
+<img src="./images/aggregation.png" alt="Aggregation Screenshot" width="600"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You will use both Node.js scripts and the MongoDB Shell to interact with your database.
 
@@ -75,63 +141,7 @@ See [examples/Week1-Assignment.md](examples/Week1-Assignment.md) for detailed in
 │   ├── README.md
 │   ├── SETUP_INSTRUCTIONS.md
 │   └── Week1-Assignment.md
-```
-
-## 🖼️ Screenshots
-
-### MongoDB Compass - Books Collection
-
-
-
-
-
-
-
-
-
-
-
-
-<h2>📸 Screenshots</h2>
-
-<h3>Books inserted into <code>plp_bookstore.books</code></h3>
-<img src="./Screenshot%202025-10-02%20164818.png" alt="Books Screenshot" width="700">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3>Aggregation Pipeline Results</h3>
-<img src="./Screenshot%202025-10-02%20163526.png" alt="Aggregation Screenshot" width="700">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+``
 
 
 
