@@ -7,29 +7,18 @@
 ## 📸 Screenshots
 
 ### Books inserted into `plp_bookstore.books`
-<img src="./images/books.png" alt="Books Screenshot" width="600"/>
+<img src="./images/books.png" alt="Books Screenshot" width="400"/>
 
 ### Aggregation Pipeline Results
-<img src="./images/aggregation.png" alt="Aggregation Screenshot" width="600"/>
+<img src="./images/aggregation.png" alt="Aggregation Screenshot" width="400"/>
+
 
 This project demonstrates the fundamentals and advanced techniques of working with MongoDB, including:
 - Database and collection setup
 - CRUD operations
 - Advanced queries (filtering, projection, sorting, pagination)
 - Aggregation pipelines
-- Indexing for perform
-
-
-
-## 📸 Screenshots
-
-### Books inserted into `plp_bookstore.books`
-<img src="./images/books.png" alt="Books Screenshot" width="600"/>
-
-
-
-### Aggregation Pipeline Results
-<img src="./images/aggregation.png" alt="Aggregation Screenshot" width="600"/>
+- Indexing for perfo
 
 
 You will use both Node.js scripts and the MongoDB Shell to interact with your database.
