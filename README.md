@@ -3,16 +3,21 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-v6.x-green)](https://www.mongodb.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-brightgreen)](https://nodejs.org/)
 
-## 📚 Project Overview
+## 📚 Project Overview 
+## 📸 Screenshots
+
+### Books inserted into `plp_bookstore.books`
+<img src="./images/books.png" alt="Books Screenshot" width="600"/>
+
+### Aggregation Pipeline Results
+<img src="./images/aggregation.png" alt="Aggregation Screenshot" width="600"/>
 
 This project demonstrates the fundamentals and advanced techniques of working with MongoDB, including:
 - Database and collection setup
 - CRUD operations
 - Advanced queries (filtering, projection, sorting, pagination)
 - Aggregation pipelines
-- Indexing for performce
-
-
+- Indexing for perform
 
 
 
@@ -23,59 +28,8 @@ This project demonstrates the fundamentals and advanced techniques of working wi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Aggregation Pipeline Results
 <img src="./images/aggregation.png" alt="Aggregation Screenshot" width="600"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 You will use both Node.js scripts and the MongoDB Shell to interact with your database.
