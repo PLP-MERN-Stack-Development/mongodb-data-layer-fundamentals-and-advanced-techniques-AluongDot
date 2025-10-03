@@ -81,12 +81,6 @@ See [examples/Week1-Assignment.md](examples/Week1-Assignment.md) for detailed in
 
 ### MongoDB Compass - Books Collection
 
-![MongoDB Compass Books Collection](images/compass-books-collection.png)
-
-### MongoDB Compass - Aggregation Pipeline
-
-![MongoDB Compass Aggregation Pipeline](images/compass-aggregation.png)
-
 
 
 
